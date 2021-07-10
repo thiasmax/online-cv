@@ -35,9 +35,9 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      15 ans d’expérience en développement logiciel\n
-      Expert en C++ et définition d’architecture logicielle embarquée (DSP / FPGA)\n
-      Compétences avancées en traitement du signal dans le domaine de la radio\n
+      15 ans d’expérience en développement logiciel |
+      Expert en C++ et définition d’architecture logicielle embarquée (DSP / FPGA) |
+      Compétences avancées en traitement du signal dans le domaine de la radio
 education:
     - degree: Passeport to Software Architect
       university: Thales University
@@ -58,8 +58,8 @@ education:
       university: ESIEE (Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique), Noisy le Grand (93)
       time: 2002-2005       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Architecte logiciel temps réel embarqué sur des systèmes de transmissions numériques (VHF et UHF)
+      time: 2016 - Aujourd'hui
       company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
