@@ -33,14 +33,11 @@ sidebar:
       - item: Guitare
 
 career-profile:
-    title: Career Profile
+    title: Profil
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      15 ans d’expérience en développement logiciel
+      Expert en C++ et définition d’architecture logicielle embarquée (DSP / FPGA)
+      Compétences avancées en traitement du signal dans le domaine de la radio
 education:
     - degree: Passeport to Software Architect
       university: Thales University
