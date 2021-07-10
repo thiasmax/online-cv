@@ -42,28 +42,24 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Passeport to Software Architect
+      university: Thales University
+      time: 2017
+    - degree: Passeport to WorkPackage Management
+      university: Thales University
+      time: 2015
+    - degree: Java et la conception objet
+      university: Valthech Training
+      time: 2012
+    - degree: Design Pattern dans vos applications
+      university: Orsys
+      time: 2012
+    - degree: Traitement du signal numérique
+      university: SupAero
+      time: 2011
+    - degree: Diplôme d'ingénieur spécialisation en télécommunications et traitement du signal
+      university: ESIEE (Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique), Noisy le Grand (93)
+      time: 2002-2005       
 experiences:
     - role: Lead Developer
       time: 2015 - Present
