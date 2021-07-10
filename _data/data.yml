@@ -87,7 +87,7 @@ experiences:
         Service de Guerre Electronique et de Radio Surveillance
           - Simulations et développement d'algorithmes de localisation par triangulation en JAVA
           - Organisation et participation des essais terrains du système
-    - role: Ingénieur d'étude en traitement numérique du signal
+    - role: Ingénieur d'études en traitement numérique du signal
       time: 2007 - 2013
       company: Thales SIX GTS, Gennevilliers, France
       details: |
@@ -95,6 +95,17 @@ experiences:
           - Développement d'un logiciel de reconnaissance de communication en bande V/U/SHF
           - Rédaction d’un brevet sur « L’identification de communications rapide en environnement non coopératif »
           - Définition de forme d'ondes aéronautiques et terrestres et étude des performances
+    - role: Ingénieur IVQ logiciel embarqué pour téléphonie mobile
+      time: 2006
+      company: Motorola, Montréal QC & Markham ONT, Canada
+      details: |
+        Organisation et déroulement des tests de non régression du logiciel de téléphones mobiles
+        Mission à Toronto d'une durée d'un mois pour former une équipe de testeurs
+    - role: Ingénieur d'études en traitement numérique du signal
+      time: 2005 (6 mois)
+      company: Ministère de l'intérieur, Paris, France
+      details: |
+        Réalisation d’un démodulateur pour une communication téléphonique satellitaire utilisant une technique d’accès TDMA
 projects:
     title: Projects
     intro: >
