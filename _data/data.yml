@@ -62,7 +62,7 @@ experiences:
       time: 2016 - Aujourd'hui
       company: Thales SIX GTS, Gennevilliers, France
       details: |
-        Travail en Agile sur des systèmes de transmissions numériques (VHF et UHF)
+        Département temps réel des système de transmissions numériques VHF et UHF
           - Définition de l’architecture logicielle temps réel d’une couche physique
           - Mapping des traitements sur cibles DSP/FPGA
           - Développement des algorithmes en natif puis implémentation sur cible (DSP TI C6x)
@@ -70,17 +70,16 @@ experiences:
           - Intégration DSP / FPGA sur BIF (Banc d’intégration fonctionnel) et postes finaux
           - Benchmark des traitements et optimisation de la puissance de calcul nécessaire, de la mémoire et de la consommation
           - Validation des performances de la couche physique
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Travail en agile
+    - role: Responsable de lot logiciel pour un modem satellite
+      time: 2014 - 2016
+      company: Thales SIX GTS, Gennevilliers, France
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Service de Guerre Electronique et de Radio Surveillance
+          - Encadrement d'une équipe d'ingénieurs pour le développement d'un composant logiciel pour l'interception de communication internet par satellite
+          - Participation à la conception du système et définition de l’architecture logicielle
+          - Développement en C++ des algorithmes du démodulateur TDMA
+          - Organisation et participation à l’IVQ du composant logiciel
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
