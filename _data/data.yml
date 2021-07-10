@@ -27,6 +27,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
+        title: Langues
       - idiom: English
         level: Native
 
