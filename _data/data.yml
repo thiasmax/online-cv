@@ -22,6 +22,9 @@ sidebar:
 
       - idiom: Anglais
         level: Professionnel
+        
+      - idiom: Allemand
+        level: Intermédiaire        
 
     interests:
       - item: Compétition de danse en West Coast Swing
@@ -156,10 +159,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
-    
-    Software
-    
+    title: Compétences techniques
     toolset:
       - name: C++
         level: 98%
@@ -168,7 +168,13 @@ skills:
         level: 90%
 
       - name: Python
-        level: 98%
+        level: 70%
+        
+      - name: DSP
+        level: 95%
+
+      - name: GPP
+        level: 90%        
 
 
 footer: >
