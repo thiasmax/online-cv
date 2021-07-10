@@ -58,21 +58,18 @@ education:
       university: ESIEE (Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique), Noisy le Grand (93)
       time: 2002-2005       
 experiences:
-    - role: Architecte logiciel temps réel embarqué sur des systèmes de transmissions numériques (VHF et UHF)
+    - role: Architecte logiciel temps réel embarqué
       time: 2016 - Aujourd'hui
-      company: Startup Hubs, San Francisco
+      company: Thales SIX GTS, Gennevilliers, France
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Travail en Agile sur des systèmes de transmissions numériques (VHF et UHF)
+          - Définition de l’architecture logicielle temps réel d’une couche physique
+          - Mapping des traitements sur cibles DSP/FPGA
+          - Développement des algorithmes en natif puis implémentation sur cible (DSP TI C6x)
+          - Développement de la simulation de la couche protocolaire sur GPP (VxWorks)
+          - Intégration DSP / FPGA sur BIF (Banc d’intégration fonctionnel) et postes finaux
+          - Benchmark des traitements et optimisation de la puissance de calcul nécessaire, de la mémoire et de la consommation
+          - Validation des performances de la couche physique
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
