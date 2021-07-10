@@ -78,19 +78,23 @@ experiences:
         Service de Guerre Electronique et de Radio Surveillance
           - Encadrement d'une équipe d'ingénieurs pour le développement d'un composant logiciel pour l'interception de communication internet par satellite
           - Participation à la conception du système et définition de l’architecture logicielle
-          - Développement en C++ des algorithmes du démodulateur TDMA
+          - Développement en C++ des algorithmes de synchronisation et de démodulation TDMA
           - Organisation et participation à l’IVQ du composant logiciel
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Ingénieur de développement logiciel en traitement du signal
+      time: 2013 - 2014
+      company: Thales SIX GTS, Gennevilliers, France
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Service de Guerre Electronique et de Radio Surveillance
+          - Simulations et développement d'algorithmes de localisation par triangulation en JAVA
+          - Organisation et participation des essais terrains du système
+    - role: Ingénieur d'étude en traitement numérique du signal
+      time: 2007 - 2013
+      company: Thales SIX GTS, Gennevilliers, France
+      details: |
+        Service de Guerre Electronique et de Radio Surveillance
+          - Développement d'un logiciel de reconnaissance de communication en bande V/U/SHF
+          - Rédaction d’un brevet sur « L’identification de communications rapide en environnement non coopératif »
+          - Définition de forme d'ondes aéronautiques et terrestres et étude des performances
 projects:
     title: Projects
     intro: >
