@@ -54,8 +54,8 @@ education:
     - degree: Traitement du signal numérique
       university: SupAero
       time: 2011
-    - degree: Diplôme d'ingénieur spécialisation en télécommunications et traitement du signal
-      university: ESIEE (Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique), Noisy le Grand (93)
+    - degree: Diplôme d'ingénieur en télécommunications et traitement du signal
+      university: ESIEE (Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique)
       time: 2002-2005       
 experiences:
     - role: Architecte logiciel temps réel embarqué
@@ -157,25 +157,19 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
+    
+    Software
+    
     toolset:
-      - name: Python & Django
+      - name: C++
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Java
+        level: 90%
+
+      - name: Python
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
