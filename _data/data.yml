@@ -35,9 +35,9 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      15 ans d’expérience en développement logiciel
-      Expert en C++ et définition d’architecture logicielle embarquée (DSP / FPGA)
-      Compétences avancées en traitement du signal dans le domaine de la radio
+      15 ans d’expérience en développement logiciel\n
+      Expert en C++ et définition d’architecture logicielle embarquée (DSP / FPGA)\n
+      Compétences avancées en traitement du signal dans le domaine de la radio\n
 education:
     - degree: Passeport to Software Architect
       university: Thales University
